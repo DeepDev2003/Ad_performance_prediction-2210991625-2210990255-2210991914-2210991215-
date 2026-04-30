@@ -1,29 +1,8 @@
 """
-Ad Performance Prediction - Hybrid v5 (PRODUCTION-GRADE)
-==========================================================
-Major upgrades over v4:
-
-  ALGORITHMS:
-    + LightGBM and XGBoost added to the stacking ensemble
-    + 4-model stack (HGB, LGB, XGB, RandomForest) -> Ridge meta-learner
-    + Bayesian-style hyperparameter sweep using small grid
-
-  TARGETS (now 13 prediction tasks instead of 7):
-    REAL DATA:    CTR, CPC, CVR, ROI, CPM, CPA, Engagement Score
-    CLASSIFIERS:  High-CTR, High-Engagement, Creative-Fatigue
-    CREATIVE/SDK: D1 retention, D7 retention, D30 retention,
-                  Install Quality Score, Cross-Platform Lift
-
-  STATISTICAL RIGOUR:
-    + 5-fold cross-validation reported as mean +/- std
-    + Bootstrap 95% confidence intervals on R-squared (n=200)
-    + MAE, MAPE, RMSE, R-squared all reported per model
-    + Per-platform R-squared breakdown (Meta vs Google vs Instagram etc.)
-    + Per-source residual analysis
-    + Permutation feature importance (true causal-style importance,
-      not just split frequency)
-    + Calibration: Brier score for classifiers
-    + Demographic fairness slice for source 03 (age x gender)
+Ad performance prediction - main training script.
+Trains 15 prediction tasks using a stacked ensemble of HGB, LightGBM,
+XGBoost, and Random Forest with a Ridge meta-learner.
+Outputs metrics JSON and unified data CSVs.
 """
 import os, json, pickle, warnings, time
 import numpy as np
@@ -512,7 +491,7 @@ print(f"  D1 top features:  {[f['feature'] for f in results['D1_Retention_Rate']
 # ================================================================
 # 10) FINAL SUMMARY
 # ================================================================
-hdr("10) HYBRID v5 - FINAL SUMMARY (13 models)")
+hdr("10) FINAL SUMMARY (13 models)")
 
 print(f"\n{'Task':<28} {'R2/Acc':<10} {'CI95':<22} {'MAE':<10} {'CV5 mean+-std':<18} N_test")
 print("-"*110)
@@ -530,7 +509,7 @@ for k,v in results.items():
               f"{v['CV5_R2_mean']:.3f}+-{v['CV5_R2_std']:.3f}     "
               f"{v['n_test']}")
 
-with open(os.path.join(OUT,'hybrid_results_v5.json'),'w') as f:
+with open(os.path.join(OUT,'hybrid_results.json'),'w') as f:
     json.dump(results, f, indent=2, default=str)
 unified.to_csv(os.path.join(OUT,'unified_real_campaigns.csv'), index=False)
 cre.to_csv(os.path.join(OUT,'unified_creative_metadata.csv'), index=False)

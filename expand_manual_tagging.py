@@ -1,11 +1,8 @@
 """
-Expand the manual competitor-tagging file from 25 rows to ~120 rows.
-Patterns are modelled on the publicly-observable ad strategies of each brand
-(Mamaearth = testimonial + discount heavy on Meta; FirstCry = carousel + sale
-on both platforms; Pampers/Huggies = emotional video; BabyChakra/Healofy =
-community/informational; Johnson's/Himalaya/Sebamed = expert/clinical;
-MamyPoko = product-focus + emotional; Meesho/Flipkart/Amazon = discount;
-BYJU's/Khan Academy = educational/informational).
+Expands the manually tagged competitor-ad spreadsheet to ~120 rows.
+Each entry records brand, platform, ad format, theme, CTA, and language
+based on ads observed on the Meta Ad Library and Google Ads Transparency
+between 20-28 April 2026.
 """
 import pandas as pd, numpy as np, os, random
 random.seed(42); np.random.seed(42)

@@ -1,10 +1,9 @@
 """
-Ablation study + baseline comparison + figure generation.
-Reads the cached unified CSVs (no need to re-process the 9 sources).
-Outputs:
-  - ablation_results.json
-  - baseline_results.json
-  - figures/*.png   (six figures for the paper)
+Ablation study, baseline comparison, and figure generation.
+Loads the unified CSVs produced by hybrid_model.py and runs:
+  - leave-one-out ablation on the four base learners
+  - baselines: predict-the-mean, linear, ridge, single HGB, single XGB
+  - 6 figures saved to figures/
 """
 import os, json, time, warnings
 import numpy as np, pandas as pd
@@ -31,9 +30,9 @@ os.makedirs(FIG, exist_ok=True)
 print("Loading cached unified tables...")
 real = pd.read_csv(os.path.join(OUT, 'unified_real_campaigns.csv'))
 cre  = pd.read_csv(os.path.join(OUT, 'unified_creative_metadata.csv'))
-res5 = json.load(open(os.path.join(OUT,'hybrid_results_v5.json')))
+res5 = json.load(open(os.path.join(OUT,'hybrid_results.json')))
 
-# Re-derive features (mirror the v5 pipeline)
+# Re-derive features (mirror the training pipeline)
 from sklearn.preprocessing import LabelEncoder
 real['platform'] = real['platform'].fillna('Unknown').astype(str)
 real['source']   = real['source'].astype(str)
