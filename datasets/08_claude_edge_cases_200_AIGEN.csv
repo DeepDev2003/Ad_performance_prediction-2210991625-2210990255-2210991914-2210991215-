@@ -1,0 +1,201 @@
+ad_id,platform,brand,ad_format,creative_theme,cta_type,audience_segment,language,budget_daily_inr,bid_strategy,ad_copy_length_words,has_price_mention,has_offer_mention,has_expert_mention,has_urgency_words,has_emoji_in_copy,video_duration_seconds,days_active,month_launched,is_own_brand,impressions,clicks,installs,spent_inr,ctr,cpi_inr,d0_removal_rate,d1_retention_rate,d7_retention_rate,purchase_within_7d_rate,onboarding_completion_rate,avg_session_duration_seconds,install_quality_score
+AD_1001,Meta,Mylo,Static_Image,Doctor_Expert,Sign_Up,Pregnant_Trimester2,Hinglish,1219,Lowest_Cost,38,1,0,1,0,0,0,7,Sep,1,58118,1534,291,5616.3,2.64,19.3,15.2,45.5,23.0,5.1,60.6,276.5,75.2
+AD_1001,Meta,Mylo,Static_Image,Doctor_Expert,Sign_Up,Pregnant_Trimester2,Hinglish,1219,Lowest_Cost,38,1,0,1,0,0,0,30,Sep,1,230785,2930,966,23956.8,1.27,24.8,24.6,29.4,12.7,2.2,55.2,140.4,54.5
+AD_1001,Meta,Mylo,Static_Image,Doctor_Expert,Sign_Up,Pregnant_Trimester2,Hinglish,1219,Lowest_Cost,38,1,0,1,0,0,0,62,Sep,1,531137,1965,294,21203.28,0.37,72.12,23.4,14.9,9.4,1.8,30.4,41.5,16.4
+AD_1002,Meta,Ovaluna,Reels_Video,Product_Hero,Book_Now,New_Mom_0_6m,Hindi,2294,Lowest_Cost,31,1,0,0,1,0,20,7,Nov,1,41043,833,133,2251.69,2.03,16.93,17.9,44.6,24.7,5.9,71.9,259.7,64.6
+AD_1002,Meta,Ovaluna,Reels_Video,Product_Hero,Book_Now,New_Mom_0_6m,Hindi,2294,Lowest_Cost,31,1,0,0,1,0,20,30,Nov,1,202694,2675,508,11780.52,1.32,23.19,24.1,32.4,17.7,2.5,49.0,168.5,51.6
+AD_1002,Meta,Ovaluna,Reels_Video,Product_Hero,Book_Now,New_Mom_0_6m,Hindi,2294,Lowest_Cost,31,1,0,0,1,0,20,78,Nov,1,323206,1454,130,7640.1,0.45,58.77,26.7,17.9,11.3,1.1,28.3,89.8,25.2
+AD_1003,Meta,Mylo,Reels_Video,Testimonial_Mom,Book_Now,Lookalike_Purchasers,Hinglish,2376,Cost_Cap,39,1,1,0,0,0,23,7,Nov,1,32310,714,221,3107.26,2.21,14.06,8.0,45.8,26.6,6.9,70.2,211.4,62.1
+AD_1003,Meta,Mylo,Reels_Video,Testimonial_Mom,Book_Now,Lookalike_Purchasers,Hinglish,2376,Cost_Cap,39,1,1,0,0,0,23,30,Nov,1,287496,4053,729,18647.82,1.41,25.58,18.7,27.1,19.6,4.3,56.5,139.9,48.8
+AD_1003,Meta,Mylo,Reels_Video,Testimonial_Mom,Book_Now,Lookalike_Purchasers,Hinglish,2376,Cost_Cap,39,1,1,0,0,0,23,65,Nov,1,440306,3654,584,40161.68,0.83,68.77,27.5,12.6,11.2,1.9,26.3,59.2,16.4
+AD_1004,Meta,LactoMama,Static_Image,UGC_Style,Learn_More,New_Mom_0_6m,English,2533,Lowest_Cost,37,0,1,0,1,1,0,7,Oct,1,58919,1431,243,3698.46,2.43,15.22,8.6,35.3,24.6,5.6,55.1,247.4,61.2
+AD_1004,Meta,LactoMama,Static_Image,UGC_Style,Learn_More,New_Mom_0_6m,English,2533,Lowest_Cost,37,0,1,0,1,1,0,30,Oct,1,128234,2167,758,17646.24,1.69,23.28,17.4,33.7,13.7,2.3,56.8,137.1,48.5
+AD_1004,Meta,LactoMama,Static_Image,UGC_Style,Learn_More,New_Mom_0_6m,English,2533,Lowest_Cost,37,0,1,0,1,1,0,83,Oct,1,463416,1900,228,9482.52,0.41,41.59,29.8,16.2,8.3,1.6,35.1,89.0,17.0
+AD_1005,Meta,Ovaluna,Reels_Video,Testimonial_Mom,Sign_Up,Lookalike_Purchasers,Hindi,1374,Cost_Cap,25,1,1,0,0,0,29,7,Nov,1,28315,767,291,5537.73,2.71,19.03,8.2,36.4,27.0,4.3,63.1,206.6,77.3
+AD_1005,Meta,Ovaluna,Reels_Video,Testimonial_Mom,Sign_Up,Lookalike_Purchasers,Hindi,1374,Cost_Cap,25,1,1,0,0,0,29,30,Nov,1,163158,2121,699,27778.26,1.3,39.74,17.6,35.2,15.6,3.1,57.2,179.5,50.0
+AD_1005,Meta,Ovaluna,Reels_Video,Testimonial_Mom,Sign_Up,Lookalike_Purchasers,Hindi,1374,Cost_Cap,25,1,1,0,0,0,29,58,Nov,1,331158,1357,176,8104.8,0.41,46.05,23.1,19.4,5.4,1.0,25.8,58.6,33.4
+AD_1006,InMobi,LactoMama,App_Install_Banner,Price_Deal,Try_Free,Broad_Women_18_24,Hindi,5307,Lowest_Cost,17,1,0,0,1,0,0,12,Oct,1,70836,6616,5160,15118.8,9.34,2.93,87.0,1.9,0.0,0.0,1.0,2.1,1.2
+AD_1007,Google_UAC,MamaEarth,App_Install_Banner,Price_Deal,Get_Offer,Interest_Parenting,Hindi,2600,Lowest_Cost,18,0,1,0,0,0,0,5,Jun,0,86066,9596,6237,17214.12,11.15,2.76,94.2,1.4,0.0,0.0,3.1,3.0,3.3
+AD_1008,InMobi,GoGrow,App_Install_Banner,Price_Deal,Try_Free,Interest_Parenting,Hindi,4231,Max_Conversions,16,0,0,0,1,0,0,14,Jun,1,156743,15376,11532,50740.8,9.81,4.4,80.8,1.8,0.0,0.0,0.2,1.9,4.2
+AD_1009,InMobi,GoGrow,App_Install_Banner,Comparison,Get_Offer,Interest_Parenting,English,6594,Lowest_Cost,13,0,1,0,0,0,0,4,Dec,1,128147,11302,8702,37766.68,8.82,4.34,78.4,0.2,0.0,0.0,1.5,2.7,4.0
+AD_1010,Meta,Airprime,Discovery,Price_Deal,Get_Offer,Interest_Parenting,English,7084,Lowest_Cost,17,0,1,0,0,0,0,5,Mar,1,266161,13760,9632,38528.0,5.17,4.0,96.4,1.6,0.0,0.0,4.3,2.4,1.3
+AD_1011,Google_UAC,Airprime,App_Install_Banner,Product_Hero,Get_Offer,Broad_Women_25_34,Hindi,3826,Lowest_Cost,16,0,1,0,0,0,0,9,Jun,1,196068,21665,14732,70566.28,11.05,4.79,89.8,0.8,0.0,0.0,4.9,1.6,4.7
+AD_1012,Meta,GoGrow,App_Install_Banner,Price_Deal,Try_Free,Broad_Women_25_34,English,7968,Max_Conversions,23,0,1,0,1,0,0,12,Sep,1,110631,8518,5792,20040.32,7.7,3.46,91.3,0.0,0.0,0.0,4.6,1.6,3.6
+AD_1013,InMobi,MamaEarth,Discovery,Product_Hero,Try_Free,Broad_Women_18_24,English,6154,Max_Conversions,23,0,1,0,1,0,0,8,Jul,0,205008,18204,14563,31310.45,8.88,2.15,83.7,1.5,0.0,0.0,0.9,1.7,2.0
+AD_1014,InMobi,FirstCry,Discovery,Comparison,Try_Free,Broad_Women_25_34,English,5619,Max_Conversions,16,0,0,0,0,0,0,11,Aug,0,138967,13354,10683,26280.18,9.61,2.46,89.2,0.2,0.0,0.0,4.8,0.7,1.6
+AD_1015,InMobi,Airprime,Static_Image,Comparison,Install_Now,Broad_Women_25_34,English,7159,Lowest_Cost,22,1,0,0,0,0,0,10,Jul,1,177918,10728,9333,35838.72,6.03,3.84,94.8,1.8,0.0,0.0,3.9,0.7,4.0
+AD_1016,InMobi,Himalaya Baby,App_Install_Banner,Product_Hero,Try_Free,Interest_Parenting,English,5625,Max_Conversions,24,1,0,0,1,0,0,5,Dec,0,298866,24357,20703,84054.18,8.15,4.06,81.4,1.6,0.0,0.0,2.4,0.7,2.2
+AD_1017,Google_UAC,MamaEarth,Discovery,Price_Deal,Install_Now,Broad_Women_18_24,Hindi,5137,Lowest_Cost,16,1,1,0,0,0,0,4,Jul,0,263699,19302,11967,36858.36,7.32,3.08,94.2,0.8,0.0,0.0,3.9,2.8,0.1
+AD_1018,YouTube,GoGrow,Shorts_Video,Testimonial_Mom,Shop_Now,Broad_Women_25_34,Hindi,412,Cost_Cap,14,0,1,0,0,0,39,9,Jan,1,2130985,78420,25094,3077.64,3.68,9.11,33.7,10.1,16.3,0.3,32.7,121.6,11.2
+AD_1019,Meta,Mylo,Shorts_Video,Testimonial_Mom,Learn_More,Broad_Women_25_34,Hindi,467,Cost_Cap,20,0,0,0,0,0,19,8,May,1,2268171,76664,16099,3399.76,3.38,3.74,55.0,19.0,16.9,4.0,44.3,155.8,52.7
+AD_1020,Meta,Ovaluna,Shorts_Video,Meme_Humor,Shop_Now,Broad_Women_25_34,Hindi,658,Cost_Cap,20,0,0,0,0,0,29,7,Mar,1,980385,51176,14841,4237.52,5.22,4.47,52.2,28.0,22.9,2.0,57.4,55.7,36.6
+AD_1021,Snapchat,Pampers India,Reels_Video,Before_After,Install_Now,Interest_Parenting,English,519,Cost_Cap,9,0,1,0,0,1,37,10,Nov,0,1931227,49053,17168,4619.1,2.54,6.78,29.5,40.7,12.6,0.9,22.9,113.9,39.3
+AD_1022,Snapchat,Pampers India,Shorts_Video,UGC_Style,Install_Now,Broad_Women_18_24,Hindi,530,Lowest_Cost,20,0,0,0,0,0,25,9,Oct,0,2089596,76897,23069,4293.0,3.68,7.45,29.2,15.3,8.4,3.1,54.6,120.0,33.2
+AD_1023,Snapchat,FirstCry,Shorts_Video,Before_After,Install_Now,Interest_Health_Wellness,English,664,Cost_Cap,15,0,1,0,0,0,17,2,Feb,0,1734113,56878,16494,1221.76,3.28,9.23,33.9,26.2,11.8,3.8,29.9,146.5,22.2
+AD_1024,Snapchat,Airprime,Shorts_Video,Meme_Humor,Shop_Now,Broad_Women_25_34,Hinglish,410,Cost_Cap,12,0,1,0,0,0,10,10,Oct,1,1686982,100038,29011,3567.0,5.93,10.49,27.1,33.3,4.9,0.4,17.4,72.6,52.5
+AD_1025,Snapchat,GoGrow,Shorts_Video,Testimonial_Mom,Learn_More,Interest_Parenting,Hinglish,326,Cost_Cap,15,0,0,0,0,1,38,3,Feb,1,2180688,92025,37730,811.74,4.22,8.19,47.5,43.0,4.0,1.4,40.1,94.9,36.8
+AD_1026,YouTube,GoGrow,UGC_Style,Testimonial_Mom,Learn_More,Broad_Women_18_24,English,678,Lowest_Cost,20,0,1,0,0,0,24,5,Nov,1,1385103,47509,12827,3084.9,3.43,3.73,21.3,21.3,17.9,2.5,16.5,71.9,22.7
+AD_1027,YouTube,Pampers India,UGC_Style,Emotional_Journey,Learn_More,Broad_Women_18_24,English,415,Lowest_Cost,12,0,0,0,0,0,37,4,Feb,0,750140,23104,9703,1510.6,3.08,5.77,26.5,10.0,17.8,3.6,57.4,110.1,32.2
+AD_1028,Snapchat,MamaEarth,UGC_Style,UGC_Style,Install_Now,Broad_Women_18_24,Hinglish,645,Lowest_Cost,20,0,1,0,0,0,20,6,Oct,0,668743,34574,12446,3444.3,5.17,4.58,26.1,44.9,12.0,4.1,58.6,104.6,28.4
+AD_1029,YouTube,FirstCry,UGC_Style,Testimonial_Mom,Learn_More,Interest_Health_Wellness,English,318,Cost_Cap,9,0,1,0,0,0,23,7,May,0,1855908,54006,24842,2136.96,2.91,9.95,15.1,39.8,12.6,0.5,38.3,132.1,32.4
+AD_1030,Meta,GoGrow,Static_Image,Infographic,Get_Offer,Pregnant_Trimester2,Hinglish,1297,Lowest_Cost,30,1,1,0,0,0,0,12,Dec,1,35758,103,12,611.52,0.29,50.96,44.8,28.7,9.6,0.8,40.8,64.9,24.3
+AD_1031,Meta,Himalaya Baby,Stories_Video,Comparison,Sign_Up,Pregnant_Trimester2,English,2371,Cost_Cap,29,0,1,0,0,0,63,9,Feb,0,51208,256,30,3294.3,0.5,109.81,32.7,27.3,7.8,1.2,34.7,99.9,19.8
+AD_1032,YouTube,Chicco India,Shorts_Video,Comparison,Try_Free,Pregnant_Trimester2,Hinglish,2665,Bid_Cap,27,0,0,0,0,0,37,12,Oct,0,65196,169,28,2920.12,0.26,104.29,31.8,28.7,8.8,3.0,39.8,75.6,13.0
+AD_1033,Snapchat,Chicco India,Static_Image,Tutorial_HowTo,Install_Now,Pregnant_Trimester2,English,2954,Target_CPA,10,1,0,0,0,0,0,9,Jul,0,35232,63,24,2513.04,0.18,104.71,37.3,24.8,13.5,2.6,41.5,56.6,16.3
+AD_1034,Google_UAC,Pampers India,Skippable_InStream,Product_Hero,Sign_Up,Broad_Women_25_34,Hinglish,1731,Manual_CPC,12,0,0,0,0,0,28,8,Nov,0,28173,98,13,1281.54,0.35,98.58,28.1,15.8,8.6,1.6,26.1,58.8,23.6
+AD_1035,Meta,Ovaluna,Static_Image,Product_Hero,Book_Now,Broad_Women_25_34,English,2838,Max_Conversions,14,1,1,0,0,0,0,12,Aug,1,98611,256,30,2036.1,0.26,67.87,31.6,19.3,10.5,0.7,43.6,99.1,16.0
+AD_1036,Meta,Himalaya Baby,Stories_Video,Tutorial_HowTo,Sign_Up,Pregnant_Trimester2,Hinglish,1236,Cost_Cap,22,1,0,0,0,0,64,16,Oct,0,53780,322,48,3392.16,0.6,70.67,29.9,15.1,13.7,2.5,44.3,93.7,24.9
+AD_1037,YouTube,Pampers India,Shorts_Video,Tutorial_HowTo,Sign_Up,Broad_Women_25_34,English,1826,Manual_CPC,57,1,1,0,0,0,36,9,Nov,0,27735,155,19,1809.56,0.56,95.24,20.8,20.5,6.3,2.8,28.2,59.1,14.0
+AD_1038,Snapchat,Ovaluna,Static_Image,Tutorial_HowTo,Explore,Pregnant_Trimester2,Hinglish,1271,Target_CPA,12,1,0,0,0,0,0,9,Apr,1,67089,395,35,3721.2,0.59,106.32,29.9,19.0,6.2,1.4,38.7,48.4,17.6
+AD_1039,Google_UAC,Airprime,Skippable_InStream,Comparison,Shop_Now,Broad_Women_25_34,Hinglish,1706,Manual_CPC,12,1,0,0,0,0,35,19,Dec,1,54608,240,12,698.04,0.44,58.17,27.6,22.4,6.0,2.7,23.4,61.8,23.4
+AD_1040,Meta,FirstCry,Static_Image,Product_Hero,Explore,Broad_Women_25_34,Hinglish,1945,Lowest_Cost,21,1,0,0,0,0,0,11,Aug,0,73287,425,26,2856.88,0.58,109.88,29.2,28.5,11.4,0.7,26.9,97.8,29.0
+AD_1041,Meta,Airprime,Stories_Video,Product_Hero,Shop_Now,Pregnant_Trimester2,English,1315,Max_Conversions,16,0,0,0,0,0,56,11,Oct,1,43305,225,30,1989.3,0.52,66.31,42.5,15.0,13.6,0.9,23.2,47.5,13.5
+AD_1042,YouTube,Mylo,Shorts_Video,Tutorial_HowTo,Sign_Up,Broad_Women_25_34,Hinglish,864,Cost_Cap,31,1,1,0,0,0,16,9,Dec,1,70176,273,29,2963.8,0.39,102.2,29.1,23.9,9.5,1.1,35.4,80.9,28.2
+AD_1043,Meta,LactoMama,Static_Image,Lifestyle_Aspirational,Install_Now,Men_25_34,Hindi,942,Cost_Cap,37,1,0,0,0,0,13,10,Feb,1,51178,690,89,1665.19,1.35,18.71,71.8,10.0,3.6,0.4,16.9,21.8,8.6
+AD_1044,Google_UAC,Airprime,Static_Image,Lifestyle_Aspirational,Install_Now,Men_18_24,Hindi,2133,Cost_Cap,38,0,0,0,1,0,13,4,Jun,1,141873,1886,546,11668.02,1.33,21.37,74.0,8.7,0.5,0.1,13.6,39.8,6.8
+AD_1045,Google_UAC,GoGrow,Reels_Video,Lifestyle_Aspirational,Learn_More,Broad_Women_18_24,English,1678,Target_CPA,24,0,1,0,0,0,8,8,Feb,1,181497,3012,602,11359.74,1.66,18.87,79.7,7.2,2.8,0.1,10.6,19.1,7.6
+AD_1046,Google_UAC,Ovaluna,Carousel,Testimonial_Mom,Shop_Now,Toddler_Mom_1_3y,English,1086,Target_CPA,36,0,0,0,0,0,19,9,Feb,1,67191,1384,166,6523.8,2.06,39.3,68.6,7.5,2.3,0.2,11.2,23.0,14.2
+AD_1047,Meta,Mylo,Reels_Video,Product_Hero,Install_Now,Men_25_34,Hindi,2236,Cost_Cap,34,0,0,0,0,1,6,10,Jul,1,101609,1188,201,5589.81,1.17,27.81,53.9,11.1,3.0,0.5,11.2,18.8,14.8
+AD_1048,Meta,Ovaluna,Carousel,Testimonial_Mom,Install_Now,Broad_Women_35_44,English,531,Cost_Cap,38,1,1,0,1,1,9,9,Mar,1,63865,926,185,6029.15,1.45,32.59,79.2,12.7,0.4,0.9,5.8,10.8,14.0
+AD_1049,Meta,LactoMama,Carousel,Product_Hero,Install_Now,Men_25_34,English,2384,Target_CPA,26,0,1,0,1,0,7,4,Jul,1,57751,698,139,4131.08,1.21,29.72,63.9,6.7,1.7,0.3,8.4,30.4,3.5
+AD_1050,Meta,Airprime,Static_Image,Testimonial_Mom,Shop_Now,Men_18_24,English,2967,Lowest_Cost,39,1,0,0,1,0,15,15,Nov,1,49753,547,109,3740.88,1.1,34.32,76.4,12.1,2.2,0.9,16.3,35.4,10.1
+AD_1051,Google_UAC,GoGrow,Reels_Video,Testimonial_Mom,Install_Now,Broad_Women_18_24,Hinglish,730,Cost_Cap,31,0,1,0,0,1,19,4,May,1,151043,2371,640,10508.8,1.57,16.42,52.7,13.4,4.3,0.6,15.1,28.5,9.2
+AD_1052,Google_UAC,Ovaluna,Reels_Video,Price_Deal,Shop_Now,Toddler_Mom_1_3y,Hindi,923,Cost_Cap,37,0,1,0,0,1,3,4,Sep,1,199378,2173,412,8730.28,1.09,21.19,65.4,9.3,0.8,0.4,10.7,26.4,6.4
+AD_1053,Google_UAC,Mylo,Carousel,Testimonial_Mom,Learn_More,Men_25_34,Hinglish,2968,Lowest_Cost,25,0,0,0,1,1,0,4,Oct,1,67074,1582,363,8261.88,2.36,22.76,73.2,4.5,3.5,0.1,16.2,35.7,6.3
+AD_1054,Google_UAC,Ovaluna,Carousel,Price_Deal,Shop_Now,Broad_Women_35_44,Hindi,2491,Lowest_Cost,22,0,0,0,0,0,14,5,Mar,1,50228,652,130,4511.0,1.3,34.7,68.9,11.9,2.6,0.7,22.5,34.7,9.8
+AD_1055,Meta,LactoMama,Carousel,Testimonial_Mom,Learn_More,Men_25_34,Hinglish,1472,Cost_Cap,34,1,1,0,0,0,19,7,Dec,1,147683,1772,513,10762.74,1.2,20.98,77.5,13.8,1.0,0.7,16.4,27.6,12.0
+AD_1056,Meta,Ovaluna,Static_Image,Lifestyle_Aspirational,Try_Free,Pregnant_Trimester2,Hindi,122,Lowest_Cost,20,0,0,0,0,1,0,15,Aug,1,4705,40,4,1152.9,0.87,50.09,45.4,46.9,12.4,3.2,28.7,89.5,13.3
+AD_1057,Meta,Ovaluna,Static_Image,Testimonial_Mom,Shop_Now,New_Mom_6_12m,Hinglish,85,Max_Conversions,29,1,0,0,0,0,0,26,Jan,1,1149,6,4,1502.8,0.55,131.85,34.4,24.1,23.3,1.9,16.1,62.9,35.6
+AD_1058,Google_UAC,GoGrow,Static_Image,Problem_Solution,Sign_Up,Pregnant_Trimester3,Hinglish,159,Lowest_Cost,34,1,1,0,0,0,0,18,Apr,1,3912,37,3,944.46,0.97,97.58,31.0,27.8,29.6,4.4,29.5,104.6,35.4
+AD_1059,Google_UAC,Mylo,Carousel,Testimonial_Mom,Install_Now,Toddler_Mom_1_3y,Hindi,61,Max_Conversions,32,0,1,0,0,1,0,17,Nov,1,1934,49,4,570.35,2.58,147.89,42.5,7.8,23.3,3.7,24.7,27.9,18.0
+AD_1060,Google_UAC,GoGrow,Carousel,Doctor_Expert,Shop_Now,New_Mom_0_6m,Hinglish,141,Lowest_Cost,35,0,1,0,0,0,0,17,May,1,1519,37,5,1150.56,2.5,137.84,48.3,20.3,5.6,5.5,28.4,163.5,20.7
+AD_1061,Google_UAC,GoGrow,Static_Image,Problem_Solution,Get_Offer,Toddler_Mom_1_3y,Hindi,70,Max_Conversions,24,1,1,0,0,0,0,16,Aug,1,3990,36,3,660.8,0.92,78.67,46.5,32.7,13.1,5.1,49.6,30.3,36.9
+AD_1062,Meta,LactoMama,Carousel,Product_Hero,Learn_More,Pregnant_Trimester2,Hindi,143,Max_Conversions,27,1,0,0,0,1,0,25,Jan,1,1756,38,3,1894.75,2.2,80.92,31.2,22.9,19.5,2.0,15.7,152.4,30.0
+AD_1063,Google_UAC,MamaEarth,Collection,Festive_Offer,Get_Offer,Broad_Women_18_24,Hinglish,42191,Lowest_Cost,18,1,1,0,1,0,20,5,Feb,0,4592008,34899,10469,523135.93,0.76,49.97,36.2,31.6,17.9,3.2,44.2,109.5,30.8
+AD_1064,Google_UAC,GoGrow,Reels_Video,Festive_Offer,Shop_Now,Broad_Women_25_34,Hindi,42376,Lowest_Cost,26,0,1,0,1,1,29,8,Aug,1,1888599,21718,4343,121690.86,1.15,28.02,40.0,28.1,13.3,3.4,46.5,66.6,44.5
+AD_1065,YouTube,GoGrow,Collection,Festive_Offer,Get_Offer,Lookalike_Purchasers,Hinglish,21925,Lowest_Cost,28,1,1,0,1,0,24,3,Feb,1,2083586,18127,5256,161201.52,0.87,30.67,24.5,31.3,13.2,2.2,31.6,77.7,44.1
+AD_1066,YouTube,GoGrow,Reels_Video,Product_Hero,Get_Offer,Broad_Women_25_34,Hinglish,48053,Lowest_Cost,20,1,1,0,1,1,30,8,Oct,1,1145562,15350,2456,63831.44,1.34,25.99,32.8,26.1,14.5,3.4,38.3,117.5,35.0
+AD_1067,Meta,FirstCry,Skippable_InStream,Price_Deal,Install_Now,Broad_Women_18_24,Hindi,13926,Lowest_Cost,29,1,1,0,1,0,29,9,Aug,0,4696023,36628,7325,338634.75,0.78,46.23,34.4,28.3,16.6,3.9,32.6,93.3,36.2
+AD_1068,Meta,Ovaluna,Collection,Festive_Offer,Shop_Now,Broad_Women_25_34,Hindi,29019,Cost_Cap,34,1,1,0,1,1,22,9,Apr,1,2139657,28457,7398,426716.64,1.33,57.68,23.8,20.2,18.0,2.7,47.6,104.8,26.8
+AD_1069,Meta,GoGrow,Collection,Festive_Offer,Shop_Now,Broad_Women_18_24,English,49158,Target_CPA,36,0,1,0,1,1,29,10,May,1,868597,11812,3307,132544.56,1.36,40.08,34.5,28.7,11.7,2.5,41.4,77.5,36.1
+AD_1070,YouTube,GoGrow,Reels_Video,Festive_Offer,Shop_Now,Interest_Parenting,Hinglish,8555,Cost_Cap,19,1,1,0,1,1,19,6,Jan,1,1248739,32467,13960,117124.4,2.6,8.39,45.1,18.8,5.2,3.7,27.8,114.5,24.4
+AD_1071,YouTube,MamaEarth,Stories_Video,Emotional_Journey,Install_Now,Lookalike_Purchasers,Hinglish,3272,Cost_Cap,25,1,1,0,1,0,25,4,Jan,0,1424112,46568,21886,371843.14,3.27,16.99,40.7,19.8,6.1,3.0,44.4,86.3,22.6
+AD_1072,Meta,Chicco India,Stories_Video,Festive_Offer,Install_Now,Broad_Women_18_24,Hindi,12380,Lowest_Cost,21,1,1,0,1,1,25,3,Jan,0,857860,30454,9136,110819.68,3.55,12.13,37.5,19.9,7.8,3.5,39.5,96.5,28.4
+AD_1073,YouTube,FirstCry,Collection,Festive_Offer,Get_Offer,Lookalike_Purchasers,English,8804,Cost_Cap,34,1,1,0,1,1,19,10,Nov,0,716988,22943,11242,123437.16,3.2,10.98,49.6,22.0,9.6,3.1,34.8,78.4,29.2
+AD_1074,Meta,Chicco India,Stories_Video,Price_Deal,Get_Offer,Broad_Women_18_24,Hinglish,3689,Cost_Cap,17,1,1,0,1,0,17,8,Jan,0,737801,32241,14830,150376.2,4.37,10.14,31.8,19.3,6.2,1.3,39.8,59.1,19.0
+AD_1075,Meta,LactoMama,Stories_Video,Price_Deal,Install_Now,Interest_Parenting,Hindi,14160,Lowest_Cost,15,1,1,0,1,0,15,5,Jan,1,1197614,44191,21653,216313.47,3.69,9.99,33.0,20.4,11.3,1.3,36.5,82.8,32.5
+AD_1076,Google_UAC,Ovaluna,Reels_Video,Price_Deal,Get_Offer,Broad_Women_18_24,English,7742,Lowest_Cost,15,1,1,0,1,1,18,7,Oct,1,902634,28974,11299,202139.11,3.21,17.89,37.4,24.2,10.8,2.4,28.9,49.0,21.2
+AD_1077,YouTube,Ovaluna,Reels_Video,Emotional_Journey,Get_Offer,Lookalike_Purchasers,English,14049,Lowest_Cost,20,1,1,0,1,1,19,9,Jan,1,1280621,42516,11479,137862.79,3.32,12.01,49.5,18.2,11.5,1.0,32.7,75.7,23.3
+AD_1078,YouTube,Mylo,Collection,Emotional_Journey,Get_Offer,Broad_Women_18_24,Hindi,13941,Lowest_Cost,29,1,1,0,1,1,14,7,Nov,1,1050220,44319,20829,358883.67,4.22,17.23,44.2,21.0,9.1,3.8,32.4,57.7,37.1
+AD_1079,Google_UAC,MamaEarth,Stories_Video,Emotional_Journey,Install_Now,Interest_Parenting,English,13880,Lowest_Cost,22,1,1,0,1,0,16,4,Jan,0,1307659,55706,21725,190745.5,4.26,8.78,26.5,19.1,8.0,2.7,28.0,66.2,28.4
+AD_1080,YouTube,Himalaya Baby,Reels_Video,Emotional_Journey,Get_Offer,Broad_Women_25_34,Hinglish,5161,Cost_Cap,29,1,1,0,1,0,25,3,Jan,0,846278,36474,16413,196299.48,4.31,11.96,43.6,19.5,4.4,2.0,26.3,119.5,36.7
+AD_1081,Meta,GoGrow,Stories_Video,Festive_Offer,Shop_Now,Interest_Parenting,Hinglish,9266,Cost_Cap,27,1,1,0,1,1,23,9,Oct,1,1330994,37667,10546,175063.6,2.83,16.6,49.8,17.1,5.0,3.9,41.7,100.5,37.6
+AD_1082,Google_UAC,Airprime,Static_Image,Problem_Solution,Try_Free,South_India_Regional,Hindi,817,Cost_Cap,21,1,0,0,0,0,17,6,Jan,1,213066,404,20,2451.0,0.19,172.35,37.0,12.7,4.1,1.0,22.8,19.8,3.5
+AD_1083,Meta,Mylo,Static_Image,Price_Deal,Sign_Up,Tier3_Hindi_Belt,English,2170,Cost_Cap,33,1,0,0,0,0,11,14,Nov,1,124060,173,10,14886.2,0.14,178.28,44.0,5.8,7.6,1.3,23.5,35.0,8.1
+AD_1084,Google_UAC,MamaEarth,Reels_Video,Problem_Solution,Book_Now,Broad_Women_25_34,Tamil,805,Cost_Cap,27,1,0,0,0,0,14,7,Sep,0,164130,246,13,2592.1,0.15,96.09,48.9,5.8,3.9,0.6,17.0,25.5,6.1
+AD_1085,Google_UAC,LactoMama,Reels_Video,Testimonial_Mom,Shop_Now,South_India_Regional,Bengali,1049,Cost_Cap,36,0,1,0,0,0,7,14,Oct,1,50367,161,11,10133.34,0.32,156.56,51.8,11.2,7.1,0.5,24.3,10.6,14.2
+AD_1086,Meta,FirstCry,Static_Image,Price_Deal,Get_Offer,Tier3_Hindi_Belt,Marathi,1279,Cost_Cap,32,0,0,0,0,0,0,15,Jun,0,120851,181,9,8441.4,0.15,165.94,64.4,11.1,6.9,1.4,14.3,26.6,9.8
+AD_1087,Google_UAC,FirstCry,Carousel,Testimonial_Mom,Sign_Up,Broad_Women_18_24,Kannada,1175,Lowest_Cost,27,1,0,0,0,0,17,14,Apr,0,170888,393,19,12008.5,0.23,100.51,64.0,13.3,4.4,0.2,21.5,16.8,11.6
+AD_1088,Meta,Mylo,Static_Image,Product_Hero,Shop_Now,South_India_Regional,Hindi,1344,Lowest_Cost,35,0,1,0,0,0,17,8,Feb,1,225380,270,13,4515.84,0.12,120.69,54.1,17.1,7.4,1.0,8.3,31.3,7.9
+AD_1089,Google_UAC,Mylo,Reels_Video,Problem_Solution,Learn_More,Tier3_Hindi_Belt,English,719,Lowest_Cost,31,0,0,0,0,0,2,7,Apr,1,90313,225,11,3623.76,0.25,157.83,37.4,17.5,4.2,0.4,19.9,22.0,12.9
+AD_1090,Google_UAC,FirstCry,Carousel,Problem_Solution,Shop_Now,Broad_Women_25_34,Tamil,1804,Lowest_Cost,37,1,0,0,0,0,2,7,Feb,0,171034,530,26,9976.12,0.31,154.13,64.2,16.6,7.4,0.3,23.3,37.7,9.8
+AD_1091,Google_UAC,Mylo,Static_Image,Price_Deal,Shop_Now,South_India_Regional,Bengali,2469,Lowest_Cost,33,0,1,0,0,0,1,7,Dec,1,144410,476,23,10888.29,0.33,79.49,60.5,13.8,4.8,0.6,20.6,41.6,11.3
+AD_1092,Meta,FirstCry,Static_Image,Product_Hero,Try_Free,Tier3_Hindi_Belt,Marathi,1739,Cost_Cap,39,0,0,0,0,0,8,10,Jan,0,206231,309,15,10781.8,0.15,118.87,46.3,7.4,5.1,0.6,21.1,21.8,6.0
+AD_1093,Meta,FirstCry,Reels_Video,Testimonial_Mom,Book_Now,Broad_Women_18_24,Kannada,1148,Cost_Cap,18,1,1,0,0,0,0,6,Jan,0,120810,241,12,2961.84,0.2,92.37,47.9,12.2,4.6,0.1,9.5,32.2,10.2
+AD_1094,Google_UAC,Airprime,Carousel,UGC_Style,Learn_More,New_Mom_0_6m,Hinglish,4307,Target_CPA,25,0,1,0,0,0,0,14,May,1,237879,5899,2005,18065.05,2.48,9.01,5.6,50.1,39.0,10.2,87.1,415.8,88.5
+AD_1095,Meta,Ovaluna,Reels_Video,Problem_Solution,Shop_Now,TTC_Women,Hindi,3303,Target_CPA,33,0,1,0,0,1,23,30,Oct,1,151368,3844,1806,21960.96,2.54,12.16,6.8,48.0,33.6,10.0,83.8,395.6,94.6
+AD_1096,Google_UAC,Ovaluna,Reels_Video,Emotional_Journey,Install_Now,New_Mom_0_6m,Hinglish,4478,Target_CPA,26,1,1,0,0,1,16,24,May,1,116259,4034,1613,21759.37,3.47,13.49,7.0,55.8,31.4,12.0,83.4,431.5,83.0
+AD_1097,Google_UAC,GoGrow,UGC_Style,UGC_Style,Install_Now,New_Mom_0_6m,Hindi,2181,Cost_Cap,38,1,1,0,0,1,0,30,Nov,1,289514,10827,5413,55699.77,3.74,10.29,4.6,46.7,31.1,12.5,80.9,408.2,84.9
+AD_1098,Meta,Ovaluna,Reels_Video,Problem_Solution,Install_Now,Pregnant_Trimester2,Hindi,1851,Cost_Cap,24,1,0,0,0,0,22,21,May,1,259865,7328,3077,29016.11,2.82,9.43,6.8,52.5,37.8,10.0,76.8,436.3,83.5
+AD_1099,Meta,GoGrow,Reels_Video,Doctor_Expert,Learn_More,TTC_Women,Hindi,2449,Target_CPA,40,0,0,1,0,1,25,15,Mar,1,306562,8307,4319,56535.71,2.71,13.09,6.7,52.3,28.1,9.4,76.5,411.9,92.3
+AD_1100,Meta,Airprime,Reels_Video,Doctor_Expert,Learn_More,TTC_Women,Hindi,3945,Target_CPA,39,1,0,1,0,0,26,22,Oct,1,139890,3679,1655,22888.65,2.63,13.83,8.8,57.0,32.2,11.7,73.4,280.8,83.5
+AD_1101,Meta,GoGrow,Carousel,Problem_Solution,Buy_Now,Cart_Abandoners,Hindi,592,Target_CPA,15,1,1,0,0,0,0,20,Nov,1,750,49,14,239.4,6.62,17.1,6.4,60.8,37.8,19.7,82.7,216.1,89.7
+AD_1102,Google_UAC,LactoMama,Static_Image,Problem_Solution,Buy_Now,Lapsed_Users_30d,Hinglish,703,Target_CPA,24,1,1,0,0,0,0,20,Mar,1,284,30,12,178.68,6.04,14.89,2.3,55.0,40.8,26.7,84.6,431.8,91.4
+AD_1103,Meta,Ovaluna,Collection,Festive_Offer,Buy_Now,Cart_Abandoners,Hindi,651,Bid_Cap,16,1,1,0,1,0,0,18,Feb,1,869,59,17,278.29,6.88,16.37,5.6,57.7,51.3,21.6,91.9,432.7,88.1
+AD_1104,Google_UAC,LactoMama,Collection,Product_Hero,Shop_Now,Cart_Abandoners,English,783,Target_CPA,18,1,1,0,0,0,0,10,Jun,1,920,44,19,161.12,4.82,8.48,9.9,64.9,36.9,29.4,88.4,475.6,97.9
+AD_1105,Meta,LactoMama,Static_Image,Festive_Offer,Shop_Now,Lapsed_Users_30d,Hinglish,345,Bid_Cap,18,1,1,0,0,0,0,18,Jul,1,662,30,9,147.96,3.84,16.44,5.2,66.5,48.9,28.2,82.7,346.4,92.6
+AD_1106,Google_UAC,Ovaluna,Static_Image,Problem_Solution,Shop_Now,Lapsed_Users_30d,English,706,Target_CPA,20,1,1,0,0,0,0,14,Jun,1,760,46,13,209.04,6.1,16.08,9.2,66.8,35.9,24.4,89.2,204.9,97.1
+AD_1107,Google_UAC,Airprime,Static_Image,Problem_Solution,Shop_Now,Cart_Abandoners,Hindi,509,Cost_Cap,18,1,1,0,0,0,0,7,Nov,1,569,26,8,109.12,4.63,13.64,2.4,63.8,49.5,26.3,82.3,227.4,86.2
+AD_1108,Google_UAC,Mylo,Static_Image,Product_Hero,Buy_Now,Lapsed_Users_30d,English,208,Bid_Cap,20,1,1,0,0,0,0,8,Jul,1,910,37,11,87.78,4.09,7.98,7.8,52.2,41.3,28.2,77.3,432.0,94.8
+AD_1109,Meta,Mylo,Collection,Price_Deal,Buy_Now,Cart_Abandoners,Hinglish,559,Bid_Cap,16,1,1,0,0,0,0,9,Jul,1,830,54,16,98.08,6.59,6.13,3.1,52.7,49.6,20.3,82.3,437.3,88.2
+AD_1110,Meta,GoGrow,Collection,Festive_Offer,Buy_Now,Cart_Abandoners,Hindi,508,Cost_Cap,16,1,1,0,1,0,0,17,May,1,861,32,18,313.38,3.75,17.41,5.1,55.3,47.8,16.1,90.1,203.6,89.7
+AD_1111,Google_UAC,FirstCry,Carousel,UGC_Style,Learn_More,Interest_Health_Wellness,English,568,Lowest_Cost,10,1,0,1,0,0,25,1,May,0,1083,3,3,142.0,0.35,190.76,52.1,30.1,14.5,7.0,5.8,161.0,38.9
+AD_1112,Google_UAC,Chicco India,App_Install_Banner,Comparison,Install_Now,Interest_Parenting,Tamil,1477,Lowest_Cost,25,1,0,1,0,1,23,1,Feb,0,1979,12,2,443.1,0.64,129.59,54.4,10.5,0.4,1.4,0.8,148.9,24.1
+AD_1113,Meta,Mylo,App_Install_Banner,Before_After,Book_Now,Interest_Parenting,English,1577,Lowest_Cost,41,0,0,0,1,1,12,1,Aug,1,2292,35,1,331.17,1.57,174.68,24.1,6.2,20.1,7.2,16.0,152.7,7.4
+AD_1114,Google_UAC,Ovaluna,Static_Image,Unboxing,Book_Now,Broad_Women_25_34,Hinglish,1516,Max_Conversions,30,1,0,1,0,1,6,1,May,1,519,12,0,227.4,2.37,110.37,65.3,58.9,33.4,0.7,32.6,84.7,51.5
+AD_1115,YouTube,Pampers India,App_Install_Banner,Price_Deal,Sign_Up,Interest_Health_Wellness,Hinglish,2923,Max_Conversions,22,1,0,0,0,1,15,1,Dec,0,2438,75,3,321.53,3.09,47.1,45.6,38.2,24.3,0.1,23.4,227.7,25.7
+AD_1116,Meta,Ovaluna,App_Install_Banner,Testimonial_Mom,Shop_Now,Broad_Women_25_34,Tamil,2025,Max_Conversions,15,1,1,1,1,0,2,1,Oct,1,591,12,0,567.0,2.12,167.59,9.7,39.8,4.6,2.9,59.6,277.8,26.6
+AD_1117,Google_UAC,Ovaluna,Static_Image,Doctor_Expert,Install_Now,Broad_Women_25_34,Tamil,2408,Max_Conversions,36,1,0,0,0,1,12,1,Feb,1,2395,37,3,433.44,1.56,101.35,14.0,9.5,24.0,8.3,48.8,12.1,51.0
+AD_1118,Snapchat,Mylo,App_Install_Banner,Problem_Solution,Learn_More,Broad_Women_18_24,Tamil,2352,Lowest_Cost,16,1,0,0,0,0,28,1,Aug,1,617,20,0,823.2,3.25,41.86,78.7,7.8,28.8,3.7,44.1,193.4,37.0
+AD_1119,InMobi,Ovaluna,Static_Image,Meme_Humor,Try_Free,Broad_Women_18_24,English,2388,Lowest_Cost,20,0,1,1,1,1,1,1,Oct,1,1974,65,3,716.4,3.32,109.3,18.0,12.9,6.5,2.8,61.8,10.4,39.0
+AD_1120,Meta,GoGrow,Carousel,Doctor_Expert,Book_Now,Broad_Women_25_34,Hindi,2726,Lowest_Cost,34,1,0,0,0,0,21,1,Dec,1,1670,33,2,599.72,2.02,81.93,18.5,19.1,7.7,9.0,54.5,17.6,59.5
+AD_1121,Google_UAC,GoGrow,Static_Image,Before_After,Sign_Up,Interest_Health_Wellness,Hinglish,1211,Lowest_Cost,25,1,0,1,0,0,1,1,Oct,1,1502,48,0,375.41,3.26,84.58,31.4,34.1,5.0,9.5,58.6,243.1,58.4
+AD_1122,Google_UAC,Pampers India,Reels_Video,Product_Hero,Explore,Broad_Women_18_24,Hinglish,1325,Lowest_Cost,31,1,0,1,1,1,4,1,Dec,0,926,34,1,371.0,3.69,30.72,73.8,46.5,29.6,8.6,67.2,112.1,56.8
+AD_1123,Meta,FirstCry,Reels_Video,Meme_Humor,Get_Offer,Broad_Women_25_34,Hinglish,1948,Cost_Cap,4,1,0,0,0,1,15,10,Jul,0,130431,4995,1198,16208.94,3.83,13.53,30.0,21.1,8.6,2.6,35.4,56.2,18.1
+AD_1124,Meta,MamaEarth,Reels_Video,Price_Deal,Shop_Now,Broad_Women_25_34,Hindi,843,Lowest_Cost,5,1,1,0,1,1,3,19,Jan,0,119523,3011,812,14875.84,2.52,18.32,49.7,21.4,4.4,1.6,28.4,34.1,22.0
+AD_1125,Snapchat,Airprime,Static_Image,Meme_Humor,Shop_Now,Broad_Women_18_24,Hindi,541,Cost_Cap,5,0,1,0,0,1,1,8,Feb,1,139602,3392,1187,17223.37,2.43,14.51,43.7,23.7,4.7,2.0,32.3,51.5,15.5
+AD_1126,Meta,MamaEarth,Static_Image,Price_Deal,Install_Now,Interest_Parenting,Hindi,1852,Cost_Cap,5,0,0,0,1,1,2,12,Feb,0,63011,1877,563,9345.8,2.98,16.6,31.4,12.1,4.7,2.6,32.5,51.4,16.6
+AD_1127,Snapchat,LactoMama,Stories_Video,Meme_Humor,Install_Now,Broad_Women_25_34,Hindi,686,Cost_Cap,4,1,0,0,0,1,12,16,Jul,1,146836,3626,1051,11077.54,2.47,10.54,36.6,22.9,8.5,0.9,33.9,30.3,26.4
+AD_1128,Snapchat,Himalaya Baby,Reels_Video,Price_Deal,Install_Now,Broad_Women_25_34,Hinglish,1308,Lowest_Cost,7,0,1,0,1,1,2,9,Feb,0,298841,11624,4649,56113.43,3.89,12.07,54.3,22.5,5.0,1.6,39.8,49.0,31.9
+AD_1129,Meta,FirstCry,Reels_Video,Meme_Humor,Get_Offer,Broad_Women_25_34,Hindi,1564,Cost_Cap,3,1,1,0,1,1,20,18,Feb,0,158643,3759,1202,20193.6,2.37,16.8,54.1,13.3,4.8,2.5,35.7,72.7,30.0
+AD_1130,Google_UAC,Himalaya Baby,Static_Image,Tutorial_HowTo,Sign_Up,Lookalike_Purchasers,English,2445,Cost_Cap,200,0,0,1,0,0,0,17,Dec,0,61139,256,48,2010.24,0.42,41.88,8.7,46.1,35.3,7.9,81.9,388.8,81.7
+AD_1131,Meta,GoGrow,Collection,Infographic,Sign_Up,TTC_Women,Hinglish,1165,Cost_Cap,206,0,0,1,0,0,0,13,Jul,1,127117,813,170,7294.7,0.64,42.91,5.6,54.2,25.9,10.3,73.1,371.7,78.5
+AD_1132,Meta,Airprime,Static_Image,Doctor_Expert,Learn_More,Pregnant_Trimester2,Hinglish,1007,Target_CPA,175,1,0,1,0,0,0,15,Jun,1,137938,869,252,10059.84,0.63,39.92,11.8,44.4,31.4,8.7,84.2,304.4,79.0
+AD_1133,Meta,GoGrow,Collection,Doctor_Expert,Sign_Up,Pregnant_Trimester2,Hinglish,1003,Cost_Cap,177,0,0,1,0,0,0,14,Nov,1,59505,440,92,3379.16,0.74,36.73,5.2,54.0,35.0,6.0,83.2,342.4,80.0
+AD_1134,Meta,GoGrow,Collection,Testimonial_Mom,Shop_Now,TTC_Women,Hinglish,2342,Target_CPA,208,1,0,1,0,0,0,15,Apr,1,91171,501,120,5162.4,0.55,43.02,10.8,40.1,38.0,11.8,81.8,323.5,79.9
+AD_1135,Google_UAC,LactoMama,Carousel,Doctor_Expert,Sign_Up,TTC_Women,Hinglish,1934,Target_CPA,188,1,0,1,0,0,0,13,Mar,1,97802,762,205,10760.45,0.78,52.49,13.0,50.8,33.6,10.1,79.4,344.2,88.0
+AD_1136,Google_UAC,FirstCry,Carousel,Doctor_Expert,Shop_Now,New_Mom_0_6m,Hinglish,1710,Target_CPA,195,1,0,1,0,0,0,23,May,0,140810,675,155,7198.2,0.48,46.44,7.9,48.5,34.6,10.3,76.2,400.8,86.9
+AD_1137,Meta,Airprime,Stories_Video,Price_Deal,Try_Free,Broad_Women_25_34,Hindi,2357,Lowest_Cost,13,0,1,0,1,1,16,9,Oct,1,254167,10573,2748,24567.12,4.16,8.94,70.9,10.8,4.1,0.7,13.5,19.2,13.8
+AD_1138,Snapchat,FirstCry,Reels_Video,Price_Deal,Install_Now,Broad_Women_18_24,Hindi,2676,Lowest_Cost,17,0,1,0,1,1,17,12,Mar,0,265876,13719,3704,34965.76,5.16,9.44,63.3,14.9,2.6,0.1,18.1,22.3,15.1
+AD_1139,Meta,Himalaya Baby,Reels_Video,Price_Deal,Try_Free,Broad_Women_25_34,Hindi,2652,Lowest_Cost,14,0,1,0,1,1,19,12,Jul,0,102447,3165,1012,9715.2,3.09,9.6,55.4,8.2,5.2,0.3,22.2,36.9,8.2
+AD_1140,Snapchat,GoGrow,Reels_Video,Meme_Humor,Get_Offer,Interest_Parenting,Hindi,1684,Lowest_Cost,9,0,1,0,1,1,20,5,May,1,252477,10452,3658,44481.28,4.14,12.16,65.8,11.9,1.7,1.5,18.8,41.2,7.1
+AD_1141,Snapchat,Mylo,Reels_Video,Price_Deal,Try_Free,Broad_Women_18_24,Hinglish,1089,Lowest_Cost,17,0,1,0,1,1,8,13,Mar,1,164572,6451,1677,22136.4,3.92,13.2,76.9,7.6,3.7,0.1,27.9,38.2,13.5
+AD_1142,Meta,Mylo,Static_Image,Testimonial_Mom,Sign_Up,Lookalike_Purchasers,Hinglish,1971,Cost_Cap,53,0,0,1,0,0,0,30,Jan,1,138935,791,158,5928.16,0.57,37.52,9.4,51.1,35.0,12.4,77.7,373.5,77.1
+AD_1143,Meta,Airprime,Carousel,Tutorial_HowTo,Sign_Up,Pregnant_Trimester2,English,1733,Target_CPA,58,0,0,1,0,0,0,15,Jan,1,190116,1444,288,15036.48,0.76,52.21,6.6,42.2,31.1,7.7,78.6,348.8,89.1
+AD_1144,Meta,Mylo,Static_Image,Tutorial_HowTo,Sign_Up,New_Mom_0_6m,Hinglish,1950,Cost_Cap,46,0,0,1,0,0,0,15,Jan,1,136170,735,139,7216.88,0.54,51.92,5.8,53.1,40.7,7.1,72.1,379.4,77.9
+AD_1145,Google_UAC,GoGrow,Static_Image,Doctor_Expert,Sign_Up,New_Mom_0_6m,English,1233,Target_CPA,65,0,0,1,0,0,0,24,May,1,161113,1095,208,9767.68,0.68,46.96,11.2,44.2,31.6,11.4,84.7,418.9,73.9
+AD_1146,Google_UAC,GoGrow,Collection,Testimonial_Mom,Learn_More,Pregnant_Trimester2,Hinglish,2595,Target_CPA,79,0,0,1,0,0,0,10,Nov,1,94250,556,133,6277.6,0.59,47.2,8.1,42.8,37.9,7.1,83.0,355.0,85.4
+AD_1147,InMobi,Airprime,Static_Image,Festive_Offer,Get_Offer,Broad_Women_25_34,Hindi,3772,Max_Conversions,22,1,1,0,1,1,15,8,Aug,1,562544,16482,6263,69707.19,2.93,11.13,32.4,28.7,12.9,0.0,53.7,70.3,27.0
+AD_1148,Meta,Himalaya Baby,App_Install_Banner,Price_Deal,Try_Free,Interest_Health_Wellness,Hindi,4076,Max_Conversions,15,1,1,0,1,0,22,13,Nov,0,597030,14866,6541,51543.08,2.49,7.88,32.0,23.4,14.8,0.2,37.4,69.8,29.8
+AD_1149,Google_UAC,Mylo,Static_Image,Comparison,Install_Now,Broad_Women_18_24,Hinglish,5645,Max_Conversions,20,1,1,0,1,0,13,13,Apr,1,678368,23200,8352,74416.32,3.42,8.91,23.3,23.4,12.5,0.3,44.5,79.4,30.7
+AD_1150,InMobi,Airprime,Reels_Video,Festive_Offer,Try_Free,Broad_Women_25_34,Hinglish,4243,Max_Conversions,20,1,1,0,1,1,16,10,Dec,1,311486,5855,2224,16257.44,1.88,7.31,30.8,26.7,8.9,0.3,38.8,95.8,25.9
+AD_1151,InMobi,MamaEarth,Reels_Video,Festive_Offer,Install_Now,Broad_Women_25_34,Hindi,5162,Max_Conversions,19,1,1,0,1,0,14,12,Nov,0,728689,14792,6804,67971.96,2.03,9.99,20.7,29.2,14.7,0.2,45.2,95.3,22.7
+AD_1152,Meta,Airprime,Carousel,Unboxing,Book_Now,TTC_Women,English,1816,Bid_Cap,27,0,0,0,1,1,29,15,May,1,168710,4909,1374,21338.22,2.91,15.53,45.5,27.9,21.6,4.4,35.7,192.1,42.7
+AD_1153,Meta,LactoMama,Carousel,Price_Deal,Install_Now,Toddler_Mom_1_3y,English,2767,Max_Conversions,33,0,1,1,0,0,22,18,Nov,1,246049,7824,2816,88309.76,3.18,31.36,26.9,10.4,5.3,3.0,22.6,42.5,28.4
+AD_1154,Google_UAC,LactoMama,Reels_Video,UGC_Style,Explore,Pregnant_Trimester2,English,1718,Manual_CPC,35,0,0,1,0,1,26,22,Jul,1,112284,2279,706,29560.22,2.03,41.87,37.7,11.6,11.4,3.3,59.4,180.7,63.3
+AD_1155,Meta,Ovaluna,Reels_Video,Before_After,Sign_Up,New_Mom_6_12m,Hinglish,1526,Manual_CPC,17,0,1,0,1,1,25,10,Mar,1,242696,4950,1138,28552.42,2.04,25.09,32.3,14.6,15.8,2.0,36.5,186.1,22.7
+AD_1156,Google_UAC,Mylo,Carousel,Unboxing,Sign_Up,Pregnant_Trimester3,English,1079,Max_Conversions,20,0,0,1,1,0,28,18,Sep,1,190780,3262,1206,28919.88,1.71,23.98,36.5,21.6,9.5,7.6,50.9,134.5,43.1
+AD_1157,Meta,Mylo,Carousel,Comparison,Install_Now,TTC_Women,Hinglish,1958,Lowest_Cost,44,0,0,0,0,1,26,21,Jun,1,184823,5378,591,16441.62,2.91,27.82,45.9,16.7,14.3,7.6,28.4,240.4,41.9
+AD_1158,Meta,LactoMama,Carousel,Emotional_Journey,Install_Now,Pregnant_Trimester3,Hindi,2680,Manual_CPC,25,0,0,0,0,0,11,6,Feb,1,69201,456,123,5137.71,0.66,41.77,33.0,18.0,8.7,3.1,51.5,125.3,15.8
+AD_1159,Meta,Ovaluna,Carousel,Tutorial_HowTo,Install_Now,New_Mom_6_12m,Hinglish,2362,Target_CPA,41,1,0,0,0,0,0,5,Aug,1,90979,1910,420,6493.2,2.1,15.46,41.9,29.1,24.1,1.1,53.9,231.1,54.8
+AD_1160,Google_UAC,GoGrow,Reels_Video,Problem_Solution,Sign_Up,Toddler_Mom_1_3y,Hindi,2490,Manual_CPC,42,0,1,0,1,0,6,21,Mar,1,92193,968,174,6034.32,1.05,34.68,14.6,33.5,15.5,0.4,57.5,247.8,42.4
+AD_1161,Google_UAC,Ovaluna,Carousel,Doctor_Expert,Sign_Up,Pregnant_Trimester2,Hinglish,1085,Cost_Cap,25,1,1,1,0,1,28,20,Aug,1,136073,3197,895,19895.85,2.35,22.23,32.6,22.8,10.0,3.4,20.2,84.2,26.1
+AD_1162,Google_UAC,Airprime,Carousel,UGC_Style,Get_Offer,Broad_Women_18_24,English,1245,Cost_Cap,35,1,0,0,1,1,20,24,Feb,1,270670,3626,1341,57743.46,1.34,43.06,17.9,35.7,16.8,5.8,64.6,216.9,46.6
+AD_1163,Meta,Ovaluna,Carousel,Lifestyle_Aspirational,Get_Offer,Pregnant_Trimester3,Hinglish,2852,Max_Conversions,17,0,1,1,0,0,24,17,Jun,1,181640,962,375,7335.0,0.53,19.56,49.3,34.0,19.7,1.1,28.0,154.6,43.3
+AD_1164,Google_UAC,LactoMama,Reels_Video,Problem_Solution,Try_Free,New_Mom_0_6m,Hindi,1646,Max_Conversions,44,0,1,1,1,0,16,16,Jul,1,173122,5626,618,27970.68,3.25,45.26,35.9,13.6,24.3,5.1,33.7,193.2,43.9
+AD_1165,Google_UAC,Airprime,Reels_Video,Unboxing,Book_Now,Toddler_Mom_1_3y,Hinglish,2794,Target_CPA,43,1,1,0,1,1,15,24,Jan,1,181553,5718,972,26827.2,3.15,27.6,30.6,19.8,6.3,1.3,50.1,209.7,48.1
+AD_1166,Meta,GoGrow,Reels_Video,Emotional_Journey,Book_Now,Pregnant_Trimester1,Hindi,976,Cost_Cap,33,1,0,0,1,1,27,23,Mar,1,85317,2039,550,6363.5,2.39,11.57,12.2,19.0,7.0,7.7,50.0,154.0,15.9
+AD_1167,Google_UAC,LactoMama,Reels_Video,Infographic,Book_Now,Pregnant_Trimester3,English,1544,Max_Conversions,36,1,0,0,0,1,28,21,May,1,93967,2508,601,14249.71,2.67,23.71,33.6,18.0,11.5,0.9,30.1,219.1,40.2
+AD_1168,Meta,GoGrow,Reels_Video,Testimonial_Mom,Explore,Pregnant_Trimester3,English,804,Manual_CPC,35,0,1,0,1,1,24,18,Sep,1,160279,2580,670,7865.8,1.61,11.74,19.2,38.1,20.4,3.0,49.5,193.1,53.1
+AD_1169,Meta,Mylo,Carousel,Tutorial_HowTo,Book_Now,New_Mom_6_12m,Hindi,822,Manual_CPC,38,1,1,1,1,0,13,5,Oct,1,186980,1589,476,4898.04,0.85,10.29,37.5,21.1,11.0,1.2,52.6,85.8,57.8
+AD_1170,Google_UAC,LactoMama,Carousel,Unboxing,Explore,New_Mom_6_12m,Hinglish,2210,Manual_CPC,27,0,1,0,0,0,15,9,Nov,1,81217,2225,689,19195.54,2.74,27.86,16.5,17.5,11.8,2.7,47.5,183.3,50.3
+AD_1171,Google_UAC,Mylo,Reels_Video,Problem_Solution,Sign_Up,Toddler_Mom_1_3y,Hindi,954,Manual_CPC,27,1,0,0,0,0,21,17,Oct,1,222012,4573,1280,49228.8,2.06,38.46,47.8,38.7,17.1,3.5,30.1,174.5,55.2
+AD_1172,Meta,Ovaluna,Reels_Video,Emotional_Journey,Shop_Now,Pregnant_Trimester3,Hindi,1930,Target_CPA,26,0,0,1,1,0,8,17,Jul,1,203637,2240,694,7363.34,1.1,10.61,46.8,29.2,19.0,4.5,49.1,106.4,55.8
+AD_1173,Meta,Airprime,Reels_Video,Unboxing,Install_Now,New_Mom_6_12m,Hinglish,1279,Max_Conversions,45,0,1,0,1,0,12,13,Sep,1,263161,7579,1743,34877.43,2.88,20.01,25.1,26.9,8.3,2.7,58.8,179.9,59.8
+AD_1174,Meta,LactoMama,Carousel,Comparison,Try_Free,Pregnant_Trimester1,English,1878,Cost_Cap,24,0,1,0,0,0,27,7,Jul,1,226605,6231,1682,39829.76,2.75,23.68,17.1,21.0,7.8,4.6,29.1,194.2,61.5
+AD_1175,Google_UAC,LactoMama,Reels_Video,Lifestyle_Aspirational,Sign_Up,Toddler_Mom_1_3y,Hindi,1236,Lowest_Cost,44,1,1,0,1,1,7,7,Nov,1,223912,4433,1595,16364.7,1.98,10.26,48.3,39.7,11.2,2.5,64.9,223.8,43.7
+AD_1176,Meta,Mylo,Carousel,Festive_Offer,Shop_Now,Toddler_Mom_1_3y,Hinglish,1515,Target_CPA,18,1,1,0,1,1,6,21,Aug,1,132746,3411,545,5706.15,2.57,10.47,33.2,21.4,16.5,2.1,47.4,82.2,38.6
+AD_1177,Google_UAC,Ovaluna,Carousel,Infographic,Book_Now,New_Mom_6_12m,Hinglish,1536,Max_Conversions,19,1,1,0,1,1,9,23,Nov,1,109917,3231,1098,42635.34,2.94,38.83,32.2,40.0,7.3,6.4,56.9,134.1,15.5
+AD_1178,Google_UAC,GoGrow,Reels_Video,Comparison,Install_Now,Pregnant_Trimester3,Hindi,1682,Bid_Cap,30,0,1,1,1,1,24,25,Feb,1,167926,4584,962,19615.18,2.73,20.39,32.3,38.4,10.6,3.3,37.5,179.5,45.3
+AD_1179,Google_UAC,Mylo,Carousel,Tutorial_HowTo,Get_Offer,Broad_Women_18_24,English,1393,Cost_Cap,35,1,1,1,1,0,5,15,Jul,1,215484,5042,1865,48844.35,2.34,26.19,13.2,22.0,9.9,5.2,55.5,163.2,34.8
+AD_1180,Meta,LactoMama,Reels_Video,Emotional_Journey,Get_Offer,Pregnant_Trimester2,Hindi,1483,Target_CPA,18,1,0,0,1,1,20,8,Feb,1,295574,9281,1020,32578.8,3.14,31.94,25.9,36.8,4.8,2.1,27.8,174.1,59.3
+AD_1181,Meta,LactoMama,Reels_Video,Product_Hero,Shop_Now,Toddler_Mom_1_3y,Hinglish,2750,Target_CPA,42,1,1,1,0,0,14,22,May,1,193797,3546,1099,53609.22,1.83,48.78,17.1,30.9,16.9,5.1,48.2,145.2,47.0
+AD_1182,Google_UAC,Ovaluna,Carousel,Problem_Solution,Learn_More,New_Mom_6_12m,Hindi,800,Max_Conversions,41,1,0,1,1,1,7,9,Jun,1,125173,2390,908,9379.64,1.91,10.33,47.9,26.7,3.2,3.4,34.6,80.9,15.4
+AD_1183,Meta,Airprime,Carousel,Lifestyle_Aspirational,Get_Offer,Pregnant_Trimester2,Hinglish,1781,Max_Conversions,39,1,0,1,0,0,1,24,Dec,1,229474,3029,787,28284.78,1.32,35.94,20.8,16.6,4.5,1.1,25.5,130.2,37.6
+AD_1184,Meta,LactoMama,Reels_Video,Problem_Solution,Get_Offer,Pregnant_Trimester3,English,2595,Manual_CPC,15,0,0,1,1,0,17,12,Feb,1,89500,483,111,2074.59,0.54,18.69,41.4,27.4,11.2,5.6,21.6,47.6,52.5
+AD_1185,Google_UAC,LactoMama,Reels_Video,Meme_Humor,Get_Offer,TTC_Women,Hindi,1299,Manual_CPC,22,0,0,1,1,1,6,17,Aug,1,114792,3110,746,8459.64,2.71,11.34,40.8,28.2,24.6,3.8,54.1,98.7,31.1
+AD_1186,Google_UAC,Mylo,Reels_Video,Testimonial_Mom,Sign_Up,TTC_Women,Hinglish,861,Cost_Cap,40,1,0,0,1,0,22,13,Oct,1,81365,1375,536,10569.92,1.69,19.72,33.2,34.2,18.1,1.2,58.5,84.7,40.0
+AD_1187,Meta,LactoMama,Carousel,Lifestyle_Aspirational,Try_Free,Toddler_Mom_1_3y,Hinglish,1590,Lowest_Cost,37,1,0,0,0,1,9,17,Jun,1,239896,2159,539,24767.05,0.9,45.95,27.5,20.3,18.3,1.5,29.3,106.5,51.6
+AD_1188,Google_UAC,GoGrow,Carousel,Festive_Offer,Shop_Now,TTC_Women,English,1559,Lowest_Cost,34,1,0,0,0,0,26,16,Oct,1,112596,1643,640,8019.2,1.46,12.53,42.8,16.6,18.0,6.1,27.7,92.3,35.5
+AD_1189,Meta,LactoMama,Reels_Video,Lifestyle_Aspirational,Install_Now,Broad_Women_18_24,Hindi,1204,Lowest_Cost,33,0,1,0,1,1,26,25,Jul,1,222470,4382,1226,42860.96,1.97,34.96,12.0,17.7,18.8,0.1,66.0,174.3,61.4
+AD_1190,Google_UAC,Mylo,Carousel,Unboxing,Shop_Now,Pregnant_Trimester2,Hinglish,1119,Cost_Cap,45,1,1,1,0,0,25,21,Feb,1,76535,2051,328,10256.56,2.68,31.27,31.1,18.7,16.8,1.4,57.5,121.3,20.3
